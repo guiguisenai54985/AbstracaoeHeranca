@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\bin\Debug\AbstracaoeHeranca.exe.config
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\bin\Debug\AbstracaoeHeranca.exe
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\bin\Debug\AbstracaoeHeranca.pdb
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.exe
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.pdb
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\Abstração_Herança\AbstracaoeHeranca\AbstracaoeHeranca\obj\Debug\AbstracaoeHeranca.csproj.CopyComplete
